@@ -30,9 +30,11 @@
 
   .site-heading {
     margin-left: 300;
-    color: #aaba91;
+}
+  .site-heading h1 {
+    color: black;
   }
 
-.navbar-brand {
-  border: 2px solid black;
-}
+ .subheading {
+   color: black;
+ }
