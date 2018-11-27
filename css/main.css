@@ -17,3 +17,24 @@
   background: #125688;
   color: white;
 }
+
+.navbar-light {
+  padding: 60;
+}
+
+ .nav-item {
+  padding: 5;
+  list-style-type: none;
+  color: #aaba91;
+}
+
+  .site-heading {
+    margin-left: 300;
+}
+  .site-heading h1 {
+    color: black;
+  }
+
+ .subheading {
+   color: black;
+ }
