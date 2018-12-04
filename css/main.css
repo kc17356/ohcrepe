@@ -1,4 +1,8 @@
+div.container {
+  margin-left: 5%
+}
 
+/* Social Buttons*/
 .fa {
   padding: 20px;
   font-size: 30px;
@@ -19,8 +23,6 @@
 }
 
 /* Contact Form */
-
-/* Style inputs */
 input[type=text], select, textarea {
     width: 100%;
     padding: 12px;
